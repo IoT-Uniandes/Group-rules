@@ -6,7 +6,7 @@ Para la publicación de proyectos en el el grupo de IoT de la Universidad, se de
 # Codigo:
   * Se debe incluir el código fuente y sus respectivas versiones.
 
-#Documentación:
+## Documentación:
   * Cada proyecto debe estar debidamente documentado. Debe incluir por lo menos un manual de instalación y un manual de usuario.
   * Cada manual debe incluir por lo menos los siguientes aspectos:
     * Requerimientos de hardware y software del proyecto.
