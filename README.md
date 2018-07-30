@@ -1,5 +1,5 @@
 # Reglas del grupo
-Para la publicación de proyectos en el el grupo de IoT de la Universidad, se deben tener en cuenta las siguientes reglas básicas aplicabes a todos los proyectos:
+Para la publicación de proyectos en el grupo de IoT de la Universidad, se deben tener en cuenta las siguientes reglas básicas, aplicabes a todos los proyectos:
 
 ## Código:
   * Se debe incluir el código fuente y sus respectivas versiones.
@@ -14,7 +14,7 @@ Cada proyecto debe estar debidamente documentado y debe incluir por lo menos un 
   * Dentro de los requerimientos de software, se debe incluir la version del lenguaje de programación usado y una lista de las librerías usadas con sus respectivas versiones.
   * Un procedimiento que detalle los pasos a seguir, ya sea para la instalación o uso del proyecto.
   * Troubleshooting para los problemas más comunes que se puedan encontrar durante la instalación o uso del proyecto.  
-  * Se debe incluir la versión final del artículo que fue desarrollado en el proyecto, en formato PDF. También se debe incluir la URL de Sharelatex y las referencias todos los colaboradores en el mismo orden que se encuentra en el artículo.
+  * Se debe incluir la versión final del artículo que fue desarrollado en el proyecto. El articulo debe estar en formato PDF. También se debe incluir la URL de referencia en Sharelatex y las referencias todos los colaboradores en el mismo orden que se encuentra en el artículo.
   * Se debe incluir una sinopsis del proyecto.
   * Todos los documentos deben ser redactados en inglés americano.
 
