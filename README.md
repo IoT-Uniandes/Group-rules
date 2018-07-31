@@ -1,5 +1,5 @@
 # Reglas del grupo
-Para la publicación de proyectos en el grupo de IoT de la Universidad, se deben tener en cuenta las siguientes reglas básicas, aplicabes a todos los proyectos:
+Para la publicación de proyectos en el grupo de IoT de la Universidad, se deben tener en cuenta las siguientes reglas básicas, aplicables a todos los proyectos:
 
 ## Código:
   * Se debe incluir el código fuente y sus respectivas versiones.
